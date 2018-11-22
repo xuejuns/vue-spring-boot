@@ -1,5 +1,5 @@
 package yuwei35kd.vue.boot;
 
-public class Test1 {
+public class Test2 {
 
 }
